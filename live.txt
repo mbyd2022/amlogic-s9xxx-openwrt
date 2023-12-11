@@ -1,0 +1,2 @@
+CCTV_1,http://ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8
+CCTV_2,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
